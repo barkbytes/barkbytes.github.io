@@ -244,6 +244,18 @@ img{
     color: var(--first-color);
 }
 
+.about__study {
+    font-size: var(--h2-font-size);
+    color: var(--first-color);
+    margin-bottom: var(--mb-1);
+    margin-top: 200px;
+}
+
+.study__container {
+    justify-items: center;
+    row-gap: 2rem;
+}
+
 /* ===== SKILLS =====*/
 .skills__container{
     row-gap: 2rem;
